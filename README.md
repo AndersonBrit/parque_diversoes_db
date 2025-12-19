@@ -26,12 +26,13 @@ A base de dados foi desenvolvida em **MySQL** e serve como projeto académico e 
 ```
 parque-diversoes-db/
 │
-├── src/
+├── assets/
 |   └── diagramas/                    → Diagramas da base de dados (ER / Relacional)
 |   └── imagens/                      → Imagens utilizadas no projeto         
 |
 ├── src/
 │   └── parque_de_diversoes.sql       → Script de criação da base de dados
+│
 └── README.md
 ```
 
@@ -101,4 +102,5 @@ Projeto desenvolvido no âmbito do curso profissional de
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o ficheiro [LICENSE](LICENSE) para mais detalhes.
+
 
