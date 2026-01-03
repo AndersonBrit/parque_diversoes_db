@@ -92,8 +92,6 @@ This project was created with the purpose of:
 
    ```sql
    src/parque_de_diversoes.sql
-````
-
 3. The database will be created automatically
 
 ---
