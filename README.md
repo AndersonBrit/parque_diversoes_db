@@ -85,17 +85,6 @@ This project was created with the purpose of:
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Open MySQL (MySQL Workbench or another client)
-2. Execute the following file:
-
-   ```sql
-   src/parque_de_diversoes.sql
-3. The database will be created automatically
-
----
-
 ## 📌 Note
 
 This project was developed for **academic and educational purposes**, as part of the learning process in relational databases.
